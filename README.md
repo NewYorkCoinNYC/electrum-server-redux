@@ -20,7 +20,7 @@ Installation
 ------------
 
   1. To install and run a server, see INSTALL. For greater
-     detail on the installation process, see HOWTO.md.
+     detail on the installation process, see [HOWTO.md](/HOWTO.md).
 
   2. To start and stop the server, use the 'electrum-server' script
 
