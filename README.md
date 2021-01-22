@@ -1,7 +1,7 @@
 Electrum-server for the newyorkcoin Electrum client
 =========================================
 
-  * Author: Thomas Voegtlin
+  * Author: CryptoLover705
   * Language: Python
 
 Features
