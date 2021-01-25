@@ -1,5 +1,6 @@
 Electrum-server for the newyorkcoin Electrum client
 =========================================
+![Electrum-nyc](https://github.com/NewYorkCoinNYC/electrum-nyc/blob/main/electrumlogo.png)
 
   * Author: CryptoLover705
   * Language: Python
