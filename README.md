@@ -1,4 +1,4 @@
-Electrum-server for the newyorkcoin Electrum client
+Electrum-server for the NewYorkCoin Electrum client
 =========================================
 ![Electrum-nyc](https://github.com/NewYorkCoinNYC/electrum-nyc/blob/main/electrumlogo.png)
 
